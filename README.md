@@ -110,6 +110,3 @@ The project uses SQL for data analysis and Power BI for interactive dashboard vi
 # 👩‍💻 Author
 Deepika  
 Data Analytics Project using Power BI, SQL & Excel
-
-Deepika  
-Data Analytics Project using Power BI, SQL & Excel

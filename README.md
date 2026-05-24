@@ -1,4 +1,4 @@
-# 🚖 Ola Ride Data Analysis Dashboard
+# 🚖 Ola Ride Data Analysis Project
 
 Interactive Data Analytics project using **Power BI, SQL, and Excel** to analyze Ola ride booking trends, customer behavior, cancellations, revenue patterns, and vehicle performance.
 
